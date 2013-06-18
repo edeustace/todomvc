@@ -1372,7 +1372,7 @@
 			"homepage": "http://www.polymer-project.org",
 			"source_path": [{
 				"name": "Architecture Example",
-				"url": "labs/architecture-examples/polymer"
+				"url": "architecture-examples/polymer"
 			}],
 			"link_groups": [{
 				"heading": "Official Resources",
